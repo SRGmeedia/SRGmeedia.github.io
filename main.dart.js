@@ -62946,7 +62946,7 @@ return A.b([A.aaz(A.fG("Hele teema",s,s),B.v3,r),A.aaz(A.fG("Tume teema",s,s),B.
 $S:413}
 A.Ec.prototype={
 L(a){var s=null,r=A.c3(a,s,t.w).w.a.a>600?3:2
-return new A.Bt(new A.a0_(r,16,16,1.8),new A.Ez(new A.a_8(this),18,!0,!0,!0,s),B.fz,B.a4,!1,s,s,B.ij,!1,s,18,B.az,B.u4,s,B.aa,B.a1,s)},
+return new A.Bt(new A.a0_(r,16,16,1.5),new A.Ez(new A.a_8(this),18,!0,!0,!0,s),B.fz,B.a4,!1,s,s,B.ij,!1,s,18,B.az,B.u4,s,B.aa,B.a1,s)},
 nx(a,b){return this.Wa(a,b)},
 Wa(a,b){var s=0,r=A.P(t.H),q
 var $async$nx=A.Q(function(c,d){if(c===1)return A.M(d,r)
