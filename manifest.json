@@ -1,11 +1,11 @@
 {
-    "name": "kool",
-    "short_name": "kool",
+    "name": "SRG Ekspress",
+    "short_name": "SRG Ekspress",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "SRG äpp",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
