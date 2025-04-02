@@ -20,4 +20,6 @@ Tegu on Saue Riigigümnaasiumi äpiga. Koostaja Aaron Hakkaja. Äpi kasutamine p
 2) äpi sisu peab olema kooskõlas seadusega
 3) uuendada äpi vajadusel
 
+Äpi halduriks saab isik, kes on usaldusväärne, liige Saue Riigigümnaasiumi õpilasesindusest (Suunatulest) ja omab arvutitehnilisi oskusi.
+
 28.01.2025 seisuga on äpi haldur - Aaron Hakkaja
