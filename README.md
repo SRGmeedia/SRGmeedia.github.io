@@ -20,6 +20,12 @@ Tegu on Saue Riigigümnaasiumi äpiga. Koostaja Aaron Hakkaja. Äpi kasutamine p
 2) äpi sisu peab olema kooskõlas seadusega
 3) uuendada äpi vajadusel
 
+Äpi uuendamiseks on vaja uuendada järgnevad failid, mille saab commandiga flutter build web ja sealt valida (kõik ülejäänud PEAB jääma samaks);
+* main.dart.js
+* flutter.js
+* flutter_bootstrap.js
+* flutter_service_worker.js
+
 Äpi halduriks saab isik, kes on usaldusväärne, liige Saue Riigigümnaasiumi õpilasesindusest (Suunatulest) ja omab arvutitehnilisi oskusi.
 
 28.01.2025 seisuga on äpi haldur - Aaron Hakkaja
