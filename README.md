@@ -11,6 +11,11 @@ Tegu on Saue Riigigümnaasiumi äpiga. Koostaja Aaron Hakkaja. Äpi kasutamine p
 2) äpi sisu peab olema kooskõlas seadusega
 3) uuendada äpi vajadusel
 
+Äpi halduril ei ole õigust ilma koostaja loata:
+1) eemaldada äpp internetist
+2) muuta äpi sisu
+3) muuta äpi väljanägemist mistahes kujul või vormil
+
 Äpi uuendamiseks on vaja uuendada järgnevad failid, mille saab commandiga "flutter build web" ja sealt valida (kõik ülejäänud PEAB jääma samaks);
 * main.dart.js
 * flutter.js
